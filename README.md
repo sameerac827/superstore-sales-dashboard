@@ -2,6 +2,8 @@
 
 An end-to-end sales analysis project using **SQL and Tableau** to clean, analyze, and visualize Superstore sales data. The project focuses on identifying trends in sales and profitability across customer segments, regions, and time periods.
 
+<img width="1365" height="774" alt="image" src="https://github.com/user-attachments/assets/7ff2d724-eec8-46e4-8ec6-571ed31d5c01" />
+
 ## Project Overview
 
 This project analyzes Superstore sales data to answer questions such as:
