@@ -56,7 +56,7 @@ SQL was used to prepare the dataset and perform exploratory analysis, including:
 
 The final analysis was presented through an interactive Tableau dashboard, allowing users to explore sales and profitability by segment, region, and time period.
 
-**Tableau Public:** [Add your Tableau Public link here]
+**Tableau Public:** https://public.tableau.com/views/SuperstoreSalesPerformanceDashboard_17861990394490/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Skills Demonstrated
 
